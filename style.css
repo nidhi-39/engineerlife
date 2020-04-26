@@ -1,0 +1,35 @@
+body {
+  background-color: wheat;
+}
+h1{
+  text-align : center;
+  color: black;
+}
+h2{
+  text-align:center;
+  color:dimgray;
+}
+
+h3{
+  text-align:center;
+  color:dimgray;
+}
+body{
+  color: saddlebrown;
+}
+#eng1Img{
+  float:right;
+}
+div{
+  color:saddlebrown;
+}
+#eng3Img{
+  float:left;
+}
+h4{
+  color:crimson;
+}
+h5{
+  color:indigo;
+  text-align:right;
+}
